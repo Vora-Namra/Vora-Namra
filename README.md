@@ -34,8 +34,7 @@
 
 ##  Github Stats & Recent Languages
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vora-Namra&hide=jupyter%20notebook&hide_title=true&layout=pie" alt="Namra-Vora" /></p>-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
