@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Namra Vora but call me **Nick**
 
-- 👀 I’m interested in **Development** & **AI/ML**
+- 👀 I’m interested in **Development** & **Cloud**
   
 - 🌱 I’m currently working on my **Skills**
  
