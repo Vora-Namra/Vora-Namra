@@ -8,7 +8,7 @@
      
 </p> 
 
-- 👋 Hi, I’m Namra Vora but call me **Nick**
+- 👋 Hi, I’m Namra Vora 
 
 - 👀 I’m interested in **Development** & **Cloud**
   
