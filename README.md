@@ -2,7 +2,7 @@
 	<img src="https://komarev.com/ghpvc/?username=AbhimanyuAjudiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Namra-Vora" /> 
 </p> 
 
-<h1 align="center">Hi 👋, I'm Namra Vora</h1> 
+<h1 align="center">👋Hi, I'm Namra Vora</h1> 
 <p align="center"> 
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!;I+am+a+Developer%20;Learning+tech+stac%20&size=30&color=49FF00&center=true&width=650&height=50"></a> 
      
