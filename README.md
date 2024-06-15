@@ -31,11 +31,8 @@
 
 [![An image of @voranamra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voranamra)](https://holopin.io/@voranamra)
 
-<a href="https://app.daily.dev/namra08"><img src="https://api.daily.dev/devcards/v2/F8uyuhV77EfJZCuV5NNvU.png?type=wide&r=xht" width="652" alt="Namra's Dev Card"/></a>
 
 
 
 
 
-<!-- <summary><b>⚡ Recent GitHub Activity</b></summary> -->
-<!--    <a align="center" href="https://github.com/AbhimanyuAjudiya"><img alt="Abhimanyu Ajudiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbhimanyuAjudiya&custom_title=Abhimanyu%20Ajudiya's%20Contribution%20Graph&theme=react-dark" /></a> -->
