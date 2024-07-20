@@ -1,5 +1,5 @@
 <p align="right">  
-	<img src="https://komarev.com/ghpvc/?username=AbhimanyuAjudiya&label=Profile%20views&color=0e75b6&style=plastic" alt="Namra-Vora" /> 
+	<img src="https://komarev.com/ghpvc/?username=Vora-Namra&label=Profile%20views&color=0e75b6&style=plastic" alt="Namra-Vora" /> 
 </p> 
 
 <h1 align="center">👋Hi, I'm Namra Vora</h1> 
