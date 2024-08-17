@@ -10,9 +10,9 @@
 
 - 👋 Hi, I’m Namra Vora 
 
-- 👀 I’m interested in **Development** & **Cloud**
+- 👀 Interested in **Development** & **Cloud**
   
-- 🌱 I’m currently working on my **Skills**
+- 🌱 currently working on my **Skills**
  
 - 📫 How to reach me **voranamra625@gmail.com**
 
