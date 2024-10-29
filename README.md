@@ -1,8 +1,8 @@
-<p align="center">  
+<p align="right">  
 	<img src="https://komarev.com/ghpvc/?username=Vora-Namra&label=Profile%20views&color=0e75b6&style=plastic" alt="Namra-Vora" /> 
 </p> 
-<hr>
-🔭 I’m currently working on Development & cloud<br>🤝 I’m looking to collaborate for Open Source<br>🌱 I’m currently learning Next.js <br>💬 Reach me at voranamra625@gmail.com<br>⚡ Fun fact My idea of debugging? Turning coffee into code until the bugs give up! ☕🐞
+<h1 align="center">Vora Namra</h1>
+🔭 I’m currently working on Development & cloud<br>🤝 I’m looking to collaborate for Open Source<br>🌱 I’m currently learning Next.js <br>💬 Reach me at voranamra625@gmail.com<br>⚡ Fun fact: My idea of debugging? Turning coffee into code until the bugs give up! ☕🐞
 
 
 ## 🌐 Socials:
